@@ -30,3 +30,10 @@ It helps track and visualize key sales metrics such as:
 - Power Pivot
 - Pivot Tables
 - Charts
+
+## 📊 Sales Dashboard Preview
+
+![Sales Dashboard](image.png)
+
+👉 **Download Excel file:**  
+[Vansh Sales_Dashboard.xlsx](Vansh_Sales_Dashboard.xlsx)
