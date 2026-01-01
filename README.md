@@ -30,7 +30,3 @@ It helps track and visualize key sales metrics such as:
 - Power Pivot
 - Pivot Tables
 - Charts
-
-
-
-This project is free to use. See **LICENSE** file for more details.
